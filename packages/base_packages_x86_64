@@ -25,7 +25,7 @@ ipw2100-fw
 ipw2200-fw
 linux-firmware
 linux-headers
-mesa-libgl
+#mesa-libgl
 mesa
 lib32-mesa-libgl
 mesa-vdpau
