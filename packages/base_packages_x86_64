@@ -68,9 +68,9 @@ wget
 whois
 wireless_tools
 #bumblebee
-#nvidia-libgl
-#nvidia-utils
-#nvidia
+nvidia-libgl
+nvidia-utils
+nvidia
 wpa_actiond
 x264
 xdg-user-dirs-gtk
@@ -87,7 +87,7 @@ xf86-video-i740
 xf86-video-intel
 xf86-video-mach64
 xf86-video-neomagic
-xf86-video-nouveau
+#xf86-video-nouveau
 xf86-video-nv
 xf86-video-openchrome
 xf86-video-r128
